@@ -3,4 +3,4 @@ project(guia1_ej6 C)
 
 set(CMAKE_C_STANDARD 11)
 
-add_executable(guia1_ej6 main.c)
+add_executable(guia1_ej6 main.c Remedios.c Remedios.h)
